@@ -89,3 +89,6 @@ public:
             cout <<endl<<"Escalator is Not Full...."<<endl;
     }
 };
+
+
+
